@@ -1,1 +1,2 @@
-
+I’m a practical developer who likes building tools that actually help people. I’m not the world’s fastest coder (Copilot definitely wins that race), but I’m good at reading code, spotting bugs, and planning projects so they make sense before I start typing.
+My repos are built for people who want working software without paying for overpriced tools. Everything here is “use at your own risk” — make backups and tweak things as needed. I don’t always revisit old projects, but community interest definitely motivates updates. I build things that work for me, share them so others can improve them, and keep learning along the way.
